@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bennbuy.com</string>
+    <string name="facebook_app_id">2341677062727003</string>
+    <string name="fb_login_protocol_scheme">fb2341677062727003</string>
+</resources>
